@@ -19,6 +19,34 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Firebase](https://firebase.google.com/support/privacy)
 
+**Deleting of Account**
+## Account Deletion
+
+You have the option to delete your account and associated data at any time. To initiate the account deletion process, please follow the steps below:
+
+1. Compose an email to **gigshareinc@gmail.com**, which is the official email address for account deletion requests.
+
+2. In the email, include the following information:
+   - Your registered email address associated with the account.
+   - The reason for the deletion of your account (optional but helpful for us to understand your feedback).
+
+3. Once we receive your email, our team will verify your request and may follow up with additional questions to ensure the security and validity of the deletion process.
+
+4. After your account deletion request is verified, we will proceed with deleting your account and associated data from our systems.
+
+## Data Deletion Details
+
+When you request the deletion of your account, the following data will be permanently removed from our systems:
+- Username
+- Full name
+- Password hash (encrypted)
+- User profile photos
+
+Please note that this process is irreversible, and you will no longer have access to your account or any associated data after deletion.
+
+If you have any further questions or need assistance regarding account deletion, please don't hesitate to contact us at **gigshareinc@gmail.com**.
+
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
